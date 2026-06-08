@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "294758429519",
+    "firebase_url": "https://advancegeofencing-777b2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "advancegeofencing-777b2",
+    "storage_bucket": "advancegeofencing-777b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294758429519:android:10f68318f9f07161bacb3a",
+        "android_client_info": {
+          "package_name": "com.leo.attendanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxur3BKP9oMq5YNn8_w6ce4RFJJq-WkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
