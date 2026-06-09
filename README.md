@@ -58,7 +58,24 @@ The system eliminates manual attendance processes, improves accuracy, reduces pr
 - Real-Time Updates
 
 ---
+## 📸 Screenshots
 
+### Login Screen
+![Login Screen](screenshots/1_login.png)
+
+### Student Dashboard
+![Dashboard](screenshots/2_dashboard.png)
+
+### Geofence Map
+![Geofence Map](screenshots/3_map.png)
+
+### Attendance History
+![Attendance History](screenshots/4_attendance.png)
+
+### Profile Screen
+![Profile Screen](screenshots/5_profile.png)
+
+---
 ## 📊 Advantages
 
 - Reduces Manual Work
