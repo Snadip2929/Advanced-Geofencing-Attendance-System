@@ -104,7 +104,7 @@ If you find this project useful, please consider giving it a Star ⭐ on GitHub.
 | | | |
 |---|---|---|
 | ![](screenshots/<img width="1080" height="2460" alt="1 Enter" src="https://github.com/user-attachments/assets/581218dc-6c86-4c15-95bc-99f4f0cd5b76" />
-png) | ![](screenshots/2.png) | ![](screenshots/3.png) |
+png) | ![](screenshots/2.Student Login) | ![](screenshots/3.png) |
 | ![](screenshots/4.png) | ![](screenshots/5.png) | ![](screenshots/6.png) |
 | ![](screenshots/7.png) | ![](screenshots/8.png) | ![](screenshots/9.png) |
 | ![](screenshots/10.png) | ![](screenshots/11.png) | ![](screenshots/12.png) |
