@@ -56,25 +56,7 @@ The system eliminates manual attendance processes, improves accuracy, reduces pr
 - Entry Detection
 - Exit Detection
 - Real-Time Updates
-
----
-## 📸 Screenshots
-
-### Login Screen
-![Login Screen](screenshots/1_login.png)
-
-### Student Dashboard
-![Dashboard](screenshots/2_dashboard.png)
-
-### Geofence Map
-![Geofence Map](screenshots/3_map.png)
-
-### Attendance History
-![Attendance History](screenshots/4_attendance.png)
-
-### Profile Screen
-![Profile Screen](screenshots/5_profile.png)
-
+- 
 ---
 ## 📊 Advantages
 
@@ -116,3 +98,15 @@ This project is developed for academic and educational purposes.
 ## ⭐ Repository
 
 If you find this project useful, please consider giving it a Star ⭐ on GitHub.
+
+## 📸 App Screenshots
+
+| | | |
+|---|---|---|
+| ![](screenshots/1.png) | ![](screenshots/2.png) | ![](screenshots/3.png) |
+| ![](screenshots/4.png) | ![](screenshots/5.png) | ![](screenshots/6.png) |
+| ![](screenshots/7.png) | ![](screenshots/8.png) | ![](screenshots/9.png) |
+| ![](screenshots/10.png) | ![](screenshots/11.png) | ![](screenshots/12.png) |
+| ![](screenshots/13.png) | ![](screenshots/14.png) | ![](screenshots/15.png) |
+| ![](screenshots/16.png) | ![](screenshots/17.png) | ![](screenshots/18.png) |
+| ![](screenshots/19.png) |  |  |
